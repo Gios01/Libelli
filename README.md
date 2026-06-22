@@ -8,7 +8,7 @@ Anna Clara Rocha, Gabriel Henrique, Giovanni, Helena, Isadora, Pedro Arthur.
 
 Stack utilizada no projeto, separando frontend, backend e banco de dados:
 Em frontend seram ultilizados as ferramentas de: HTML, CSS e Java Script.
-Em backend  seram ultilizados as ferramentas de: PHP e Python.
+Em backend  seram ultilizados as ferramentas de:  Python.
 Em banco de dados sera ultilizado a ferramenta de: MySQL.
 
 Breve descrição do sistema:
